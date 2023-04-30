@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Hi there 👋
 
 - 🌱 I’m currently self-learning Data Science/ML Algorithms, also enrolled in ALX's data science program
 - 📫 How to reach me: Discord: Emam#7228 
