@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently self-learning Data Science/ML Algorithms, also enrolled in ALX's data science program
+- 🌱 I’m currently self-learning Data Science/ML Algorithms.
 - 📫 How to reach me: Discord: Emam#7228 
 - ⚡ Fun fact: I'm one of the fastest typists in the world, and the fastest in Egypt.
  
